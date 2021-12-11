@@ -589,3 +589,11 @@ Received Import Request.
 Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(6033d810972f3df47b57f48ed83aaa3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d019e5362ff9521f5f98b64fbface56') in 0.005274 seconds 
   Import took 0.010851 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1262.346549 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+  artifactKey: Guid(6033d810972f3df47b57f48ed83aaa3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(6033d810972f3df47b57f48ed83aaa3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487bf1e4cf89546b97ee31ebeafcd8d5') in 0.009378 seconds 
+  Import took 0.014164 seconds .
+
