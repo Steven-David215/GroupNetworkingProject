@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class ConnectToServer : MonoBehaviourPunCallbacks
 {
-    private void start()
+    private void Start()
     {
         PhotonNetwork.ConnectUsingSettings();
     }
